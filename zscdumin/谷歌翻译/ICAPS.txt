@@ -1,0 +1,1192 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Presentations and Authors</title>
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="generator" content="Open Conference Systems 2.3.6.0" />
+	
+		<link rel="stylesheet" href="https://aaai.org/ocs/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://aaai.org/ocs/styles/common.css" type="text/css" />
+	
+	<!-- Base Jquery -->
+	<script src="http://www.google.com/jsapi"></script>
+	<script>
+		google.load("jquery", "1");
+		google.load("jqueryui", "1");
+	</script>
+		<!-- Add javascript required for font sizer -->
+	<script type="text/javascript" src="https://aaai.org/ocs/lib/pkp/js/jquery.cookie.js"></script>	
+	<script type="text/javascript" src="https://aaai.org/ocs/lib/pkp/js/fontController.js" ></script>
+	<script type="text/javascript">
+		$(function(){
+			fontSize("#sizer", "body", 9, 16, 32, "https://aaai.org/ocs"); // Initialize the font sizer
+		});
+	</script>
+	
+	
+	<link rel="stylesheet" href="https://aaai.org/ocs/styles/sidebar.css" type="text/css" />		<link rel="stylesheet" href="https://aaai.org/ocs/styles/rightSidebar.css" type="text/css" />	
+			<link rel="stylesheet" href="https://aaai.org/ocs/plugins/themes/desert/desert.css" type="text/css" />
+			<link rel="stylesheet" href="https://aaai.org/ocs/lib/pkp/styles/jqueryUi.css" type="text/css" />
+			<link rel="stylesheet" href="https://aaai.org/ocs/lib/pkp/styles/jquery.pnotify.default.css" type="text/css" />
+			<link rel="stylesheet" href="https://aaai.org/ocs/lib/pkp/styles/themes/default/pnotify.css" type="text/css" />
+	
+	<script type="text/javascript" src="https://aaai.org/ocs/lib/pkp/js/general.js"></script>
+	
+</head>
+<body>
+<div id="container">
+
+<div id="header">
+<div id="headerTitle">
+<h1>
+	AAAI Publications
+</h1>
+</div>
+</div>
+
+<div id="body">
+
+	<div id="sidebar">
+							<div id="rightSidebar">
+				<div class="block" id="sidebarDevelopedBy">
+	<a class="blockTitle" href="http://pkp.sfu.ca/ocs/" id="developedBy">Open Conference Systems</a>
+</div>	<div class="block" id="sidebarHelp">
+	<a class="blockTitle" href="javascript:openHelp('https://aaai.org/ocs/index.php/ICAPS/ICAPS17/help/view/editorial/topic/000012')">Conference Help</a>
+</div><div class="block" id="sidebarUser">
+	<span class="blockTitle">User</span>
+			<form method="post" action="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/login/signIn">
+			<table>
+				<tr>
+					<td><label for="sidebar-username">Username</label></td>
+					<td><input type="text" id="sidebar-username" name="username" value="" size="12" maxlength="32" class="textField" /></td>
+				</tr>
+				<tr>
+					<td><label for="sidebar-password">Password</label></td>
+					<td><input type="password" id="sidebar-password" name="password" value="" size="12" maxlength="32" class="textField" /></td>
+				</tr>
+				<tr>
+					<td colspan="2"><input type="checkbox" id="remember" name="remember" value="1" /> <label for="remember">Remember me</label></td>
+				</tr>
+				<tr>
+					<td colspan="2"><input type="submit" value="Log In" class="button" /></td>
+				</tr>
+			</table>
+		</form>
+	</div>	<div class="block" id="sidebarNavigation">
+		<span class="blockTitle">Conference Content</span>
+		
+		<span class="blockSubtitle">Search</span>
+		<form method="post" action="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/search/results">
+		<table>
+		<tr>
+			<td><input type="text" id="query" name="query" size="15" maxlength="255" value="" class="textField" /></td>
+		</tr>
+		<tr>
+			<td><select name="searchField" size="1" class="selectMenu">
+				<option label="All" value="">All</option>
+<option label="Authors" value="1">Authors</option>
+<option label="Title" value="2">Title</option>
+<option label="Abstract" value="4">Abstract</option>
+<option label="Index terms" value="120">Index terms</option>
+<option label="Full Text" value="128">Full Text</option>
+
+			</select></td>
+		</tr>
+		<tr>
+			<td><input type="submit" value="Search" class="button" /></td>
+		</tr>
+		</table>
+		</form>
+		
+		<br />
+	
+				<span class="blockSubtitle">Conference Information</span>
+
+		<ul class="plain">
+															<li>&#187; <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations">Presentations</a></li>																	</ul>
+		
+				<span class="blockSubtitle">Browse</span>
+		<ul>
+			<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/search/schedConfs">By Conference</a></li>
+			<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/search/authors">By Author</a></li>
+			<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/search/titles">By Title</a></li>
+					</ul>
+			</div>
+<div class="block" id="sidebarFontSize" style="margin-bottom: 4px;">
+	<span class="blockTitle">Font Size</span>
+	<div id="sizer"></div>
+</div>
+<br />
+
+			</div>
+			</div>
+
+<div id="main">
+<div id="navbar">
+	<ul class="menu">
+		<li><a href="https://aaai.org/ocs/index.php/index/index/index/index">Home</a></li>
+		<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/about">About</a></li>
+					<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/login">Log In</a></li>
+			<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/user/account">Account</a></li>
+				<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/search">Search</a></li>
+
+								<li><a href="https://aaai.org/ocs/index.php/ICAPS/index/schedConfs/archive">Archive</a></li>							<li><a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/announcement">Announcements</a></li>
+						
+										</ul>
+</div>
+<div id="breadcrumb">
+	<a href="https://aaai.org/ocs/index.php/index/index/index">Home</a> &gt;
+			<a href="https://aaai.org/ocs/index.php/ICAPS/index/index" class="hierarchyLink">International Conference on Automated Planning and Scheduling</a> &gt;
+			<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/index" class="hierarchyLink">Twenty-Seventh International Conference on Automated Planning and Scheduling</a> &gt;
+			<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations" class="current">Presentations and Authors</a></div>
+<h2>Presentations and Authors</h2>
+
+
+<div id="content">
+
+	<form method="post" name="submit" action="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations">
+		<select name="searchField" size="1" class="selectMenu">
+			<option label="Title" value="3">Title</option>
+<option label="Author" value="1">Author</option>
+
+		</select>
+		<select name="searchMatch" size="1" class="selectMenu">
+			<option value="contains">contains</option>
+			<option value="is">is</option>
+		</select>
+		<input type="text" size="15" name="search" class="textField" value="" />
+		<input type="submit" value="Search" class="button" />
+		<br />
+		Last name
+		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=A&amp;track=">A</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=B&amp;track=">B</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=C&amp;track=">C</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=D&amp;track=">D</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=E&amp;track=">E</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=F&amp;track=">F</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=G&amp;track=">G</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=H&amp;track=">H</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=I&amp;track=">I</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=J&amp;track=">J</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=K&amp;track=">K</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=L&amp;track=">L</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=M&amp;track=">M</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=N&amp;track=">N</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=O&amp;track=">O</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=P&amp;track=">P</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=Q&amp;track=">Q</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=R&amp;track=">R</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=S&amp;track=">S</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=T&amp;track=">T</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=U&amp;track=">U</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=V&amp;track=">V</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=W&amp;track=">W</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=X&amp;track=">X</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=Y&amp;track=">Y</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchInitial=Z&amp;track=">Z</a> <a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?track="><strong>All</strong></a>
+		<br />
+		Track: <select name="track" onchange="location.href='https://aaai.org/ocs/index.php/ICAPS/ICAPS17/schedConf/presentations?searchField=&amp;searchMatch=&amp;search=&amp;track=TRACK_ID'.replace('TRACK_ID', this.options[this.selectedIndex].value)" size="1" class="selectMenu"><option label="All Tracks" value="0">All Tracks</option>
+<option label="Main Track" value="1017">Main Track</option>
+<option label="Novel Applications Track" value="1018">Novel Applications Track</option>
+<option label="Planning and Learning Track" value="1019">Planning and Learning Track</option>
+<option label="Robotics Track" value="1020">Robotics Track</option>
+</select>
+	</form>
+	&nbsp;
+
+			<h4>Main Track</h4>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15768">A State-Space Acyclicity Property for Exponentially Tighter Plan Length Bounds</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15768/15082" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Mohammad Abdulaziz,											Charles Gretton,											Michael Norrish									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15590">Exploration among and within Plateaus in Greedy Best-First Search</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15590/15083" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Masataro Asai,											Alex Fukunaga									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15720">This Is a Solution! (... But Is It Though?) - Verifying Solutions of Hierarchical Planning Problems</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15720/15084" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Gregor Behnke,											Daniel Höller,											Susanne Biundo									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15716">Boosting Search Guidance in Problems with Semantic Attachments</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15716/15085" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Sara Bernardini,											Maria Fox,											Derek Long,											Chiara Piacentini									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15769">Completeness of Online Planners for Partially Observable Deterministic Tasks</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15769/15086" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Blai Bonet,											Gabriel Formica,											Melecio Ponte									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15722">A Temporal Relaxed Planning Graph Heuristic for Planning with Envelopes</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15722/15087" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Amanda Jane Coles,											Andrew Ian Coles									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15753">Planning Time to Think: Metareasoning for On-Line Planning with Durative Actions</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15753/15088" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Bence Cserna,											Wheeler Ruml,											Jeremy Frank									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15738">Dynamic Controllability of Controllable Conditional Temporal Problems with Uncertainty</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15738/15089" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Jing Cui,											Patrik Haslum									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15761">Efficient Decision-Theoretic Target Localization</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15761/15090" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Louis Dressel,											Mykel J. Kochenderfer									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15745">Sufficient Conditions for Node Expansion in Bidirectional Heuristic Search</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15745/15091" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Juergen Eckerle,											Jingwei Chen,											Nathan R. Sturtevant,											Sandra Zilles,											Robert C. Holte									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15734">Unsolvability Certificates for Classical Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15734/15092" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Salomé Eriksson,											Gabriele Röger,											Malte Helmert									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15701">The Two-Edged Nature of Diverse Action Costs</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15701/15093" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Gaojian Fan,											Martin Müller,											Robert Holte									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15616">Complete Local Search: Boosting Hill-Climbing through Online Relaxation Refinement</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15616/15094" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Maximilian Fickert,											Joerg Hoffmann									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15758">Complexity of Timeline-Based Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15758/15095" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Nicola Gigante,											Angelo Montanari,											Marta Cialdea Mayer,											Andrea Orlandini									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15719">Symmetry Breaking in Star-Topology Decoupled Search</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15719/15096" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Daniel Gnad,											Álvaro Torralba,											Alexander Shleyfman,											Joerg Hoffmann									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15580">Accelerating SAT Based Planning with Incremental SAT Solving</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15580/15097" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Stephan Gocht,											Tomáš Balyo									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15718">Multi-Objective Optimization in a Job Shop with Energy Costs through Hybrid Evolutionary Techniques</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15718/15098" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Miguel Ángel González,											Angelo Oddi,											Riccardo Rasconi									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15764">Improving MPGAA* for Extended Visibility Ranges</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15764/15099" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Carlos Hernández,											Jorge A. Baier									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15765">Coping with Large Traffic Volumes in Schedule-Driven Traffic Signal Control</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15765/15100" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Hsu-Chieh Hu,											Stephen Smith									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15732">Automated Verification of Social Law Robustness in STRIPS</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15732/15101" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Erez Karpas,											Alexander Shleyfman,											Moshe Tennenholtz									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15736">Adapting Novelty to Classical Planning as Heuristic Search</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15736/15102" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Michael Katz,											Nir Lipovetzky,											Dany Moshkovich,											Alexander Tuisov									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15649">Analytic Decision Analysis via Symbolic Dynamic Programming for Parameterized Hybrid MDPs</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15649/15103" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Shamin Kinathil,											Harold Soh,											Scott Sanner									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15748">Multiagent Online Planning with Nested Beliefs and Dialogue</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15748/15104" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Filippos Kominis,											Hector Geffner									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15740">A Polynomial Planning Algorithm That Beats LAMA and FF</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15740/15105" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Nir Lipovetzky,											Hector Geffner									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15743">Online Repositioning in Bike Sharing Systems</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15743/15106" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Meghna Lowalekar,											Pradeep Varakantham,											Supriyo Ghosh,											Sanjay Dominik Jena,											Patrick Jaillet									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15739">Increased Privacy with Reduced Communication in Multi-Agent Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15739/15107" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Shlomi Maliah,											Ronen I. Brafman,											Guy Shani									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15730">Automatic Extraction of Axioms for Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15730/15108" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Shuwa Miura,											Alex Fukunaga									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15714">Abstraction Heuristics, Cost Partitioning and Network Flows</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15714/15109" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Florian Pommerening,											Malte Helmert,											Blai Bonet									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15581">Submodular Function Maximization for Group Elevator Scheduling</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15581/15110" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Srikumar Ramalingam,											Arvind U. Raghunathan,											Daniel Nikovski									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15731">Multi-Agent Ergodic Coverage with Obstacle Avoidance</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15731/15111" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Hadi Salman,											Elif Ayvali,											Howie Choset									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15721">Compressed Path Databases with Ordered Wildcard Substitutions</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15721/15112" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Matteo Salvetti,											Adi Botea,											Alessandro Saetti,											Alfonso Emilio Gerevini									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15741">A Comparison of Cost Partitioning Algorithms for Optimal Classical Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15741/15113" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Jendrik Seipp,											Thomas Keller,											Malte Helmert									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15713">Beyond Red-Black Planning: Limited-Memory State Variables</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15713/15114" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Patrick Speicher,											Marcel Steinmetz,											Daniel Gnad,											Jörg Hoffmann,											Alfonso Gerevini									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15717">Tailoring Pattern Databases for Unsolvable Planning Instances</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15717/15115" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Simon Ståhlberg									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15642">Critical-Path Dead-End Detection versus NoGoods: Offline Equivalence and Online Learning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15642/15116" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Marcel Steinmetz,											Jörg Hoffmann									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15770">A New Approach to Temporal Planning with Rich Metric Temporal Properties</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15770/15117" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Son Thanh To,											Benjamin Johnson,											Mark Roberts,											David W. Aha									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15754">The Limits of Strong Privacy Preserving Multi-Agent Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15754/15118" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Jan Tožička,											Michal Štolba,											Antonín Komenda									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15771">Occupation Measure Heuristics for Probabilistic Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15771/15119" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Felipe Trevizan,											Sylvie Thiébaux,											Patrik Haslum									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15729">Using Hierarchical Constraints to Avoid Conflicts in Multi-Agent Pathfinding</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15729/15120" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Thayne T. Walker,											David M. Chan,											Nathan R. Sturtevant									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15757">An Investigation of Phase Transitions in Single-Machine Scheduling Problems</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15757/15121" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Zhihui Wang,											Bryan O&#039;Gorman,											Tony T. Tran,											Eleanor G. Rieffel,											Jeremy Frank,											Minh Do									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15760">Stubborn Sets for Fully Observable Nondeterministic Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15760/15122" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Dominik Winterer,											Yusra Alkhazraji,											Michael Katz,											Martin Wehrle									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15763">Approximately-Optimal Queries for Planning in Reward-Uncertain Markov Decision Processes</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15763/15123" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Shun Zhang,											Edmund Durfee,											Satinder Singh									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15766">Minimizing Maximum Regret in Commitment Constrained Sequential Decision Making</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15766/15124" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Qi Zhang,											Satinder Singh,											Edmund Durfee									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+		
+					<div class="separator"></div>
+					<h4>Novel Applications Track</h4>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15733">Tackling Large-Scale Home Health Care Delivery Problem with Uncertainty</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15733/15125" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Cen Chen,											Zachary B. Rubinstein,											Stephen F. Smith,											Hoong Chuin Lau									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15586">Automated Planning and Control for High-Density Parking Lots</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15586/15126" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Pedro M. d&#039;Orey,											José Azevedo,											Michel Ferreira									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15752">Incentivizing the Use of Bike Trailers for Dynamic Repositioning in Bike Sharing Systems</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15752/15127" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Supriyo Ghosh,											Pradeep Varakantham									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15661">New Results for the GEO-CAPE Observation Scheduling Problem</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15661/15128" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Philippe Laborie,											Bilal Messaoudi									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15645">Embedding Automated Planning within Urban Traffic Management Operations</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15645/15129" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Thomas Leo McCluskey,											Mauro Vallati									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15654">On the Exploitation of Automated Planning for Reducing Machine Tools Energy Consumption between Manufacturing Operations</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15654/15130" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Simon Parkinson,											Andrew Longstaff,											Simon Fletcher,											Mauro Vallati,											Lukas Chrpa									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15746">Augmenting Decisions of Taxi Drivers through Reinforcement Learning for Improving Revenues</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15746/15131" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Tanvi Verma,											Pradeep Varakantham,											Sarit Kraus,											Hoong Chuin Lau									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+		
+					<div class="separator"></div>
+					<h4>Planning and Learning Track</h4>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15755">State-Regularized Policy Search for Linearized Dynamical Systems</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15755/15132" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Hany Abdulsamad,											Oleg Arenz,											Jan Peters,											Gerhard Neumann									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15723">Performance Modelling of Planners from Homogeneous Problem Sets</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15723/15133" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Tomás de la Rosa,											Isabel Cenamor,											Fernando Fernández									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15735">Framer: Planning Models from Natural Language Action Descriptions</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15735/15134" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Alan Lindsay,											Jonathon Read,											João F. Ferreira,											Thomas Hayton,											Julie Porteous,											Peter Gregory									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15728">Learning to Speed Up Query Planning in Graph Databases</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15728/15135" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Mohammad Hossain Namaki,											F. A. Rezaur Rahman Chowdhury,											Md Rakibul Islam,											Janardhan Rao Doppa,											Yinghui Wu									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15744">Unsupervised Classification of Planning Instances</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15744/15136" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Javier Segovia-Aguas,											Sergio Jiménez,											Anders Jonsson									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15749">What Can I Not Do? Towards an Architecture for Reasoning about and Learning Affordances</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15749/15137" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Mohan Sridharan,											Ben Meadows,											Rocio Gomez									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+		
+					<div class="separator"></div>
+					<h4>Robotics Track</h4>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15715">Integrating Mission and Task Planning in an Industrial Robotics Framework</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15715/15138" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Matthew Crosby,											Ronald P. A. Petrick,											Francesco Rovida,											Volker Krueger									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15759">Planning with Abstract Markov Decision Processes</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15759/15140" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Nakul Gopalan,											Marie desJardins,											Michael L. Littman,											James MacGlashan,											Shawn Squire,											Stefanie Tellex,											John Winder,											Lawson L.S. Wong									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15737">An Operational Method Toward Efficient Walk Control Policies for Humanoid Robots</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15737/15141" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Ludovic Hofer,											Quentin Rouxel									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15762">Initial Results on Generating Macro Actions from a Plan Database for Planning on Autonomous Mobile Robots</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15762/15139" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Till Hofmann,											Tim Niemueller,											Gerhard Lakemeyer									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15751">Multi-Objective Policy Generation for Mobile Robots under Probabilistic Time-Bounded Guarantees</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15751/15142" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Bruno Lacerda,											David Parker,											Nick Hawes									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15584">Cooperative Multi-Robot Sampling-Based Motion Planning with Dynamics</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15584/15143" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Duong Le,											Erion Plaku									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15727">Heuristic Search on Graphs with Existence Priors for Expensive-to-Evaluate Edges</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15727/15144" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Venkatraman Narayanan,											Maxim Likhachev									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15617">Efficient Motion Planning for Problems Lacking Optimal Substructure</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15617/15145" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Oren Salzman,											Brian Hou,											Siddhartha Srinivasa									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15750">Short-Term Human-Robot Interaction through Conditional Planning and Execution</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15750/15146" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Valerio Sanelli,											Michael Cashmore,											Daniele Magazzeni,											Luca Iocchi									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15742">Dealing with On-Line Human-Robot Negotiations in Hierarchical Agent-based Task Planner</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15742/15147" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Eugenio Sebastiani,											Raphaël Lallement,											Rachid Alami,											Luca Iocchi									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15724">Plan-Time Multi-Model Switching for Motion Planning</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15724/15148" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Breelyn Melissa Kane Styler,											Reid Simmons									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15726">Hybrid Task Planning Grounded in Belief: Constructing Physical Copies of Simple Structures</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15726/15149" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Takeshi Takahashi,											Michael William Lanighan,											Roderic A. Grupen									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15747">Learning to Avoid Local Minima in Planning for Static Environments</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15747/15150" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Shivam Vats,											Venkatraman Narayanan,											Maxim Likhachev									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15756">Path Planning for Multiple Agents under Uncertainty</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15756/15151" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Glenn Wagner,											Howie Choset									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+					<table width="100%">
+			<tr valign="top">
+				<td width="75%">
+				<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15652">Any-Angle Pathfinding for Multiple Agents Based on SIPP Algorithm</a>				</td>
+				<td align="right" width="25%">
+																		<a href="https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15652/15152" class="file">PDF</a>
+															</td>
+			</tr>
+			<tr>
+				<td style="padding-left: 30px;font-style: italic;">
+											Konstantin Yakovlev,											Anton Andreychuk									</td>
+				<td align="right"></td>
+			</tr>
+			</table>
+		
+			
+
+</div><!-- content -->
+</div><!-- main -->
+</div><!-- body -->
+
+
+
+</div><!-- container -->
+</body>
+</html>
